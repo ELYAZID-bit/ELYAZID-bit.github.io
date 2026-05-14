@@ -1,6 +1,6 @@
 import { useState, useRef, useEffect, useCallback } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import ADNANE_CONTEXT from '../data/aliContext';
+import ADNANE_CONTEXT from '../data/AdnaneContext';
 
 const MISTRAL_API_KEY = import.meta.env.VITE_MISTRAL_API_KEY;
 const MAX_INPUT_LENGTH = 400;
