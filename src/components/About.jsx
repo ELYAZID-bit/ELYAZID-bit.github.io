@@ -84,7 +84,7 @@ export default function About() {
               color: '#fff',
             }}
           >
-            🤖 AI Engineer · IMT Atlantique
+            🤖 Data Scientist /AI Engineer · IMT Atlantique
           </motion.div>
         </motion.div>
 
