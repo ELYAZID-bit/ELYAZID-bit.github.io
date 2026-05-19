@@ -15,7 +15,7 @@ const exps = [
   },
   {
     n: '02', role: 'GEN AI Engineer Intern', company: 'Amadeus',
-    period: 'Stage 2A · April 2025 - Sep.2026', logo: asset('/Amadeus_logo.png'),
+    period: 'Stage 2A · April 2025 - Sep.2025', logo: asset('/Amadeus_logo.png'),
     color: '#3B82F6',
     bullets: [
       'Worked on generative AI projects and fraud detection systems at a global travel tech leader.',
