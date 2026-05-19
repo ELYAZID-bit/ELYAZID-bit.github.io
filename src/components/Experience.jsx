@@ -5,7 +5,7 @@ import { asset } from '../utils/asset';
 const exps = [
   {
     n: '01', role: 'Data scientist/ MLOps Engineer', company: 'OPmobility',
-    period: '2024 — 2025 · Contrat de Pro · 12 mois', logo: asset('/OPmobility logo.png'),
+    period: 'Sep.2025 — Aug.2026 · Contrat de Pro · 12 mois', logo: asset('/OPmobility logo.png'),
     color: '#8B5CF6',
     bullets: [
       'Applying machine learning and AI to industrial and manufacturing challenges.',
@@ -15,7 +15,7 @@ const exps = [
   },
   {
     n: '02', role: 'GEN AI Engineer Intern', company: 'Amadeus',
-    period: 'Stage 2A · Spring–Summer 2024', logo: asset('/Amadeus_logo.png'),
+    period: 'Stage 2A · April 2025 - Sep.2026', logo: asset('/Amadeus_logo.png'),
     color: '#3B82F6',
     bullets: [
       'Worked on generative AI projects and fraud detection systems at a global travel tech leader.',
@@ -25,7 +25,7 @@ const exps = [
   },
   {
     n: '03', role: 'Deep Learning Researcher', company: 'Laboratoire LATim · IMT Atlantique',
-    period: 'Research Project · Brest', logo: asset('/Laboratoire LATim.png'),
+    period: 'Sep.2024 - Jan.2025', logo: asset('/Laboratoire LATim.png'),
     color: '#10B981',
     bullets: [
       'Developed AI models for the prediction and detection of ocular pathologies.',
