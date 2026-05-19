@@ -15,7 +15,7 @@ Adnane EL YAZID is an AI Engineer and Data Scientist in his final year at IMT At
 
 ## Current Position
 
-### AI Engineer (Contrat de Professionnalisation) — OPmobility (12 months, final year)
+### AI Engineer (Contrat de Professionnalisation) — OPmobility (Sep.2025 - Aug.2026)
 OPmobility (formerly Plastic Omnium) is a world leader in automotive equipment and sustainable mobility solutions.
 - Applying machine learning and AI to industrial and manufacturing challenges
 - Developing AI-driven solutions in a production environment
@@ -25,13 +25,13 @@ OPmobility (formerly Plastic Omnium) is a world leader in automotive equipment a
 
 ## Professional Experience
 
-### AI Engineer Intern (Stage 2A) — Amadeus (Spring–Summer 2024)
+### AI Engineer Intern (Stage 2A) — Amadeus (Spring–Summer 2025)
 Amadeus is a global leader in travel technology and IT solutions.
 - Worked on generative AI projects and fraud detection systems
 - Applied advanced AI and data science techniques to production-grade systems
 - Gained hands-on experience in enterprise-level AI development
 
-### AI Researcher — Laboratoire LATim, IMT Atlantique (Academic Research Project)
+### AI Researcher — Laboratoire LATim, IMT Atlantique (Sep.2024 -Jan.2025)
 LATim (Laboratoire de Traitement de l'Information Médicale) is a medical imaging research lab associated with IMT Atlantique and INSERM in Brest.
 - Developed AI models for the prediction and detection of ocular pathologies
 - Applied deep learning and computer vision to medical image analysis
@@ -41,14 +41,14 @@ LATim (Laboratoire de Traitement de l'Information Médicale) is a medical imagin
 
 ## Education
 
-### IMT Atlantique — Mathematical and Computational Engineering (MCE), 2022–2025, Nantes
+### IMT Atlantique — Mathematical and Computational Engineering (MCE), 2023–2026, Nantes
 - Elite Grande École — one of the top engineering schools in France
 - Specialization in Mathematical and Computational Engineering
 - Top academic performance in Probability & Statistics, Numerical Methods, and Stochastic Modeling
 - Key courses: Machine Learning, AI, Applied Mathematics, Data Engineering, Statistics, Algorithms
 - Hands-on AI projects in medical imaging, industrial AI, and generative AI
 
-### CPGE (Classes Préparatoires aux Grandes Écoles) — Mathematics & Physics, 2020–2022, Morocco
+### CPGE (Classes Préparatoires aux Grandes Écoles) — Mathematics & Physics, 2021–2023, Morocco
 - Completed the highly competitive two-year preparatory program
 - Advanced mathematics (algebra, analysis, topology), physics, and engineering sciences
 - The rigorous academic foundation behind everything Adnane builds
@@ -78,7 +78,7 @@ Docker, FastAPI, Azure, Cloud deployments
 
 - **Top 100 at Auth0 Hackathon** — out of 40,000+ participants worldwide. Built an AI-powered job & internship matching platform allowing recruiters to post offers, manage candidates, and organize interviews.
 - **Orange Nokia Challenge** — competed in the Orange-Nokia innovation challenge
-- **Paris AI Hackathon** — participated in an AI-focused hackathon in Paris
+- **Paris AI Hackathon** — participated in an AI-focused hackathon in Paris and got the 6 place
 - **LATim Medical AI Research** — developed deep learning models for ocular pathology prediction at IMT Atlantique's INSERM-affiliated research lab
 
 ---
